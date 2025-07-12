@@ -1,0 +1,13 @@
+# Python files
+*.pyc
+__pycache__/
+venv/
+.env
+
+# Data files
+*.csv
+*.pkl
+*.ipynb_checkpoints
+
+# VSCode
+.vscode/
