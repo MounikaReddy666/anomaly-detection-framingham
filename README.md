@@ -18,7 +18,7 @@ This project implements anomaly detection using Isolation Forest and Local Outli
 ---
 
 ## 📆 Project Structure
-
+<pre><code>
 ├── IsolationForestModel/
 │   ├── backend/
 │   │   ├── main.py (FastAPI app)
@@ -27,6 +27,7 @@ This project implements anomaly detection using Isolation Forest and Local Outli
 ├── localOutlierFactorModel/
 ├── README.md
 ├── requirements.txt
+</code></pre>
 
 ## 🤝 How to Run
 ### 1. Create and Activate Virtual Environment
